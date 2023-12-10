@@ -1,0 +1,8 @@
+CHANGE VALUES 
+Water Temperature is  = 35
+Air Temperature is  = 35
+Gates are 1 (1 is on, 0 is off)
+Sauna Temperature is  = 45
+Light is 1
+Cameras are 1 (1 is on, 0 is off)
+Coffee machine is 1 (1 is on, 0 is off)

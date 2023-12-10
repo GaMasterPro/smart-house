@@ -1,0 +1,8 @@
+INITIAL VALUES 
+water value: 25
+sauna temp: 25
+air temp: 25
+Light is 0 (1 is on, 0 is off)
+Cameras are 0 (1 is on, 0 is off)
+Coffee machine is 0 (1 is on, 0 is off)
+Gates are 0 (1 is on, 0 is off)
